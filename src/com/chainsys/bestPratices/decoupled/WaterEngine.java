@@ -1,4 +1,4 @@
-package com.chainsys.estPratices.decoupled;
+package com.chainsys.bestPratices.decoupled;
 
 public class WaterEngine implements Iengine {
 

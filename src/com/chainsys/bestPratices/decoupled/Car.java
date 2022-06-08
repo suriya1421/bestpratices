@@ -1,4 +1,4 @@
-package com.chainsys.estPratices.decoupled;
+package com.chainsys.bestPratices.decoupled;
 // object of this class can work with any engine, and with any wheels.
 // the car classes is  decoupled from PetrolEngine class, and SteelWheell class
 public class Car {
